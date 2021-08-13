@@ -1,2 +1,2 @@
 # Instagram-Bot
-Automatically Likes Comment On Posts
+Automatically Likes and Comments On Posts
